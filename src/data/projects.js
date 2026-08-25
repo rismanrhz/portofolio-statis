@@ -26,6 +26,19 @@ export const projects = [
         features: ["Recommendation feature"]
     },
     {
+        id: 22,
+        title: "Subscription Management System",
+        company: "-",
+        role: "Programmer",
+        description: "Developed a web-based subscription management system to handle user subscriptions and billing processes.",
+        image: "/uploads/projects/substrack.png",
+        image2: null,
+        github: "https://github.com/rismanrhz/substrack",
+        featured: 0,
+        technologies: ["Java Script", " Vue.js", " Express.js"],
+        features: ["Subscription feature"]
+    },
+    {
         id: 24,
         title: "Portfolio Website",
         company: "-",
@@ -35,7 +48,7 @@ export const projects = [
         image2: null,
         github: "https://github.com/rismanrhz/portofolio",
         featured: 0,
-        technologies: ["Java Script", " Vue", " PHP", " Laravel", " MySQL"],
+        technologies: ["Java Script", " Vue.js", " PHP", " Laravel", " MySQL"],
         features: ["Project Featured"]
     }
 ]
