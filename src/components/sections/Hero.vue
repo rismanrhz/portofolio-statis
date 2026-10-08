@@ -46,7 +46,7 @@ onBeforeUnmount(() => {
 					<p class="mt-7 max-w-xl text-lg leading-9 text-slate-600 dark:text-slate-400">{{ profile.description }}</p>
 					<div class="mt-10 flex flex-wrap gap-4">
 						<a
-							href="/cv/CV-Risma-Nurhaliza.pdf"
+							href="/cv/CV - RISMA NURHALIZA.pdf"
 							target="_blank"
 							class="flex items-center gap-2 rounded-xl bg-pink-600 px-7 py-4 font-semibold text-white shadow-lg transition-all duration-300 hover:-translate-y-1 hover:bg-pink-700"
 						>
@@ -54,7 +54,7 @@ onBeforeUnmount(() => {
 							View CV
 						</a>
 						<a
-							href="/cv/CV-Risma-Nurhaliza.pdf"
+							href="/cv/CV - RISMA NURHALIZA.pdf"
 							download
 							class="flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-7 py-4 font-semibold transition-all duration-300 hover:-translate-y-1 hover:border-pink-500 hover:text-pink-600 dark:border-slate-700 dark:bg-slate-800 dark:text-white"
 						>

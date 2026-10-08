@@ -1,5 +1,21 @@
 export const certificates = [
     {
+        id: 7,
+        title: "Associate Data Scientist",
+        issuer: "Digital Talent Academy",
+        year: "2026",
+        image: "/uploads/certificates/data-scientist.jpg",
+        link: "https://www.linkedin.com/in/rismanrhz/details/certifications/"
+    },
+    {
+        id: 6,
+        title: "Quality Assurance",
+        issuer: "Digital Talent Academy",
+        year: "2026",
+        image: "/uploads/certificates/quality-assurance.jpg",
+        link: "https://www.linkedin.com/in/rismanrhz/details/certifications/"
+    },
+    {
         id: 8,
         title: "Vue.js",
         issuer: "Codepolitan",

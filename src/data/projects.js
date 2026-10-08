@@ -50,5 +50,18 @@ export const projects = [
         featured: 0,
         technologies: ["Java Script", " Vue.js", " PHP", " Laravel", " MySQL"],
         features: ["Project Featured"]
+    },
+    {
+        id: 25,
+        title: "Event Flow Website",
+        company: "-",
+        role: "Programmer",
+        description: "Event Management System using Vue.js",
+        image: "/uploads/projects/event-flow.png",
+        image2: null,
+        github: "https://github.com/rismanrhz/eventflow",
+        featured: 0,
+        technologies: ["Java Script", " Vue.js", "MySQL"],
+        features: ["Project Featured"]
     }
 ]
